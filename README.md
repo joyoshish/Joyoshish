@@ -6,4 +6,8 @@ Currently I am in my senior year of Information Technology bachelors degree prog
 **LinkedIn:** [LinkedIn Joyoshish Saha](https://www.linkedin.com/in/joyoshishsaha/)
 </br>
 <br>
-**Portfolio**
+**Portfolio** [Technical Portfolio](http://joyoshish.github.io/)
+</br>
+<br>
+**Mail** [eMail me](mailto:joyoshish@gmail.com)
+</br>
