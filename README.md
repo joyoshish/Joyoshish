@@ -8,7 +8,7 @@ Currently I am in my senior year of Information Technology bachelors degree prog
 - 🔭 I’m currently working on a Deep Learning project!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Deep Learning practitioners
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Write more articles on AI
 - ⚡ Fun fact: I love to read and play guitar 
 
 ### Connect with me:
@@ -17,6 +17,7 @@ Currently I am in my senior year of Information Technology bachelors degree prog
 [<img align="left" alt="joyoshishsaha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Joyoshish_Saha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoyoshishSaha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoyoshishSaha | Quora" width="22px" src="https://images.vexels.com/media/users/3/137401/isolated/preview/00300d00be87848b87d820f2664bc7eb-quora-icon-logo-by-vexels.png" />][quora]
 [<img align="left" alt="JoyoshishSaha | Mail" width="22px" src="https://image.flaticon.com/icons/svg/561/561188.svg" />][mail]
 <br />
 
@@ -60,3 +61,4 @@ Currently I am in my senior year of Information Technology bachelors degree prog
 [sql]: https://en.wikipedia.org/wiki/SQL
 [linux]: https://www.linux.org/
 [git]: https://git-scm.com/
+[quora]: https://www.quora.com/profile/%E0%A6%9C%E0%A7%9F%E0%A7%8B%E0%A6%B6%E0%A7%80%E0%A6%B7-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE-Joyoshish-Saha
