@@ -50,14 +50,14 @@ Currently I am in my senior year of Information Technology bachelors degree prog
 [mail]: mailto:joyoshish@gmail.com
 [github]: https://github.com
 [python]:
-[matplotlib]
-[pandas]
-[numpy]
-[tf]
-[c]
-[c++]
-[java]
-[matlab]
-[bash]
-[sql]
-[linux]
+[matplotlib]:
+[pandas]:
+[numpy]:
+[tf]:
+[c]:
+[c++]:
+[java]:
+[matlab]:
+[bash]:
+[sql]:
+[linux]:
