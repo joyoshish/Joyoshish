@@ -4,7 +4,7 @@ Hello! My name is Joyoshish Saha. I'm a passionate Deep Learning and Machine Lea
 Currently I am in my senior year of Information Technology bachelors degree program in Indian Institute of Engineering Science and Technology, Shibpur. I aspire to work on meaningful works that have some direct impact on people's lives.  
 <br>
 
-### Yes, I am a dreamer. For a dreamer is one who can find his way by moonlight, and see the dawn before the rest of the world. -Oscar Wilde
+### Yes, I am a dreamer. For a dreamer is one who can find his way by moonlight, and see the dawn before the rest of the world. - Oscar Wilde
 ---
 - 🔭 I’m currently working on a Deep Learning project!
 - 👯 I’m looking to collaborate with other Deep Learning practitioners
