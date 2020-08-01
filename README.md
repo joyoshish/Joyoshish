@@ -40,9 +40,11 @@ Currently I am in my senior year of Information Technology bachelors degree prog
 
 ---
 
-
+<!
 
 <img align="left" alt="Joyoshish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Joyoshish&show_icons=true&hide_border=true" />
+
+>
 
 [website]: https://joyoshish.github.io
 [twitter]: https://twitter.com/Joyoshish_Saha
