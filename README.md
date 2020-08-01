@@ -35,7 +35,7 @@ Currently I am in my senior year of Information Technology bachelors degree prog
 [<img align="left" alt="Linux" width="30px" src="https://w7.pngwing.com/pngs/936/104/png-transparent-tux-racer-linux-kernel-mailing-list-computer-icons-linux-logo-vertebrate-bird-thumbnail.png" />][linux]
 [<img align="left" alt="SQL" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
-[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+[<img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]  
 
 ---
 
