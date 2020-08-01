@@ -49,15 +49,15 @@ Currently I am in my senior year of Information Technology bachelors degree prog
 [linkedin]: https://linkedin.com/in/joyoshishsaha
 [mail]: mailto:joyoshish@gmail.com
 [github]: https://github.com
-[python]:
-[matplotlib]:
-[pandas]:
-[numpy]:
-[tf]:
-[c]:
-[c++]:
-[java]:
-[matlab]:
-[bash]:
-[sql]:
-[linux]:
+[python]: https://www.python.org/
+[matplotlib]: https://matplotlib.org/
+[pandas]: https://pandas.pydata.org/
+[numpy]: https://numpy.org/
+[tf]: https://www.tensorflow.org/
+[c]: https://en.wikipedia.org/wiki/C_(programming_language)
+[c++]: https://en.wikipedia.org/wiki/C%2B%2B
+[java]: https://en.wikipedia.org/wiki/Java_(programming_language)
+[matlab]: https://www.mathworks.com/products/matlab.html
+[bash]: https://www.codecademy.com/learn/learn-the-command-line/modules/bash-scripting
+[sql]: https://en.wikipedia.org/wiki/SQL
+[linux]: https://www.linux.org/
