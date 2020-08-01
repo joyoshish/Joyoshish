@@ -32,7 +32,7 @@ Currently I am in my senior year of Information Technology bachelors degree prog
 [<img align="left" alt="Java" width="40px" src="https://i.pinimg.com/originals/f1/ea/a7/f1eaa7278f64e27128e062a3de918265.png" />][java]
 [<img align="left" alt="MATLAB" width="40px" src="https://www.mathworks.com/matlabcentral/mlc-downloads/downloads/submissions/24241/versions/5/screenshot.png" />][matlab]
 [<img align="left" alt="Bash" width="40px" src="https://d33wubrfki0l68.cloudfront.net/8fe2cfeda869b96dde8c0776f5f305969f860002/c31dc/img/symbol/svg/monochrome_dark.svg" />][bash]
-[<img align="left" alt="Linux" width="40px" src="https://w7.pngwing.com/pngs/270/9/png-transparent-linux-kernel-tux-logo-linux-logo-vertebrate-bird.png" />][linux]
+[<img align="left" alt="Linux" width="40px" src="https://1000logos.net/wp-content/uploads/2017/03/LINUX-LOGO.png" />][linux]
 [<img align="left" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][github]
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]  
