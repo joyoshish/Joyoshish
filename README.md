@@ -1,15 +1,15 @@
 ### <h3 align="center">Hi there! 👋🏻</h3>
 
-Hello !! My name is Joyoshish Saha. I'm a passionate Deep Learning and Machine Learning practitioner and I am always eager to learn new technologies. I like to experiment with new Machine Learning and Deep Learning libraries and use them to make cool projects. I write articles on Deep Learning in different platforms like Quora and Medium. Among my recent obsessions is the OpenAI's GPT-3 and it's fascinating for me what this language model can achieve. I idolize great personalities like Geoffrey Hinton, Ian J. Goodfellow and I really fantacize to meet them one day 😊.  
+Hello !! My name is Joyoshish Saha. I'm a passionate Deep Learning and Machine Learning practitioner and I am always eager to learn new technologies. I like to experiment with new Machine Learning and Deep Learning libraries and use them to make cool projects. I write articles on Deep Learning in different platforms like Quora and Medium, preferably in mother tongue(as I feel there's lack of good articles in Bengali). I am a content writer in the [largest Bengali space of Quora for learning ML DL](https://bn.quora.com/q/ml). Among my recent obsessions is the OpenAI's GPT-3 and it's fascinating for me what this language model can achieve. I idolize great personalities like Geoffrey Hinton, Ian J. Goodfellow and I really fantacize to meet them one day 😊.  
 Currently I am in my senior year of Information Technology bachelors degree program in Indian Institute of Engineering Science and Technology, Shibpur. I aspire to work on meaningful works that have some direct impact on people's lives.  
 <br>
 
 ## I'm a Dreamer!
 - 🔭 I’m currently working on a Deep Learning project!
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other Deep Learning practitioners
-- 🥅 2020 Goals: Write more articles on AI
-- ⚡ Fun fact: I love to read and play guitar 
+- 🥅 2020 Goals: Write more articles on AI. Check out my Quora profile for the articles I write.
+- 🌱 I am always keen to learn about Physics, Astronomy, History, Sanskrit and you name it! 😆
+- ⚡ Fun fact: I love to read and play guitar. 
 
 ### Connect with me:
 
