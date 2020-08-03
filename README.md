@@ -27,7 +27,6 @@
     <a href="https://status.nmoo.dev/blocks/8">
         <img src="https://status.nmoo.dev/blocks/8" width="32" height="32">
     </a>
-    <p align="center">Click and refresh to change block color</p>
     <br>
 </div>
 
