@@ -30,18 +30,18 @@ Currently, I am in my senior year of Information Technology bachelor's degree pr
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]  
 
-<p align="center">
+
 ### <p align="center">Stay connected</p>
 
-[<img align="left" alt="joyoshish.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="joyoshishsaha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="joyoshishsaha | Medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
-[<img align="left" alt="Joyoshish_Saha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoyoshishSaha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JoyoshishSaha | Quora" width="22px" src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/quora-512.png" />][quora]
-[<img align="left" alt="JoyoshishSaha | Mail" width="22px" src="https://image.flaticon.com/icons/svg/561/561188.svg" />][mail]
+[<img align="center" alt="joyoshish.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="center" alt="joyoshishsaha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="center" alt="joyoshishsaha | Medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
+[<img align="center" alt="Joyoshish_Saha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="center" alt="JoyoshishSaha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="center" alt="JoyoshishSaha | Quora" width="22px" src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/quora-512.png" />][quora]
+[<img align="center" alt="JoyoshishSaha | Mail" width="22px" src="https://image.flaticon.com/icons/svg/561/561188.svg" />][mail]
 
-</p>
+
 
 
 
