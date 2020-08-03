@@ -3,8 +3,6 @@
 Hello! My name is Joyoshish Saha. I'm a passionate Deep Learning and Machine Learning practitioner and I am always eager to learn new technologies. I like to experiment with new Machine Learning and Deep Learning libraries and use them to make cool projects. I write [articles on Deep Learning in different platforms like Quora](https://bn.quora.com/profile/%E0%A6%9C%E0%A7%9F%E0%A7%8B%E0%A6%B6%E0%A7%80%E0%A6%B7-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE-Joyoshish-Saha/all_posts) and Medium, preferably in my mother tongue(as I feel there's lack of good articles in Bengali). I am a content writer in the [largest Bengali space of Quora for learning ML DL](https://bn.quora.com/q/ml). Among my recent obsessions is the [OpenAI's GPT-3](https://openai.com/blog/openai-api/) and it's fascinating for me what this language model can achieve. I idolize AI gurus like Geoffrey Hinton, Ian J. Goodfellow and I really fantasize to meet them once in my lifetime 😊.  <br>
 Currently, I am in my senior year of Information Technology bachelor's degree program at the Indian Institute of Engineering Science and Technology, Shibpur. I aspire to work on meaningful works that have some direct impact on people's lives.  
 
-<br>
-
 ### Yes, I am a dreamer. For a dreamer is one who can find his way by moonlight, and see the dawn before the rest of the world. - Oscar Wilde
 ---
 - 🔭 I’m currently working on a Deep Learning project!
@@ -14,7 +12,7 @@ Currently, I am in my senior year of Information Technology bachelor's degree pr
 - 😇 I like to mentor students for their IIT-JEE and other +2 prep ([my blog](https://plustwopcm.blogspot.com/))
 - ⚡ Fun fact: I love to read and play guitar. 
 
-### Skills:
+### Skills
 
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][python]
 [<img align="left" alt="Matplotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" />][matplotlib]
@@ -32,7 +30,7 @@ Currently, I am in my senior year of Information Technology bachelor's degree pr
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]  
 </br>
 
-### Connect with me:
+### Stay connected
 
 [<img align="left" alt="joyoshish.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="joyoshishsaha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
