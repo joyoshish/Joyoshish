@@ -17,6 +17,7 @@ Currently, I am in my senior year of Information Technology bachelor's degree pr
 
 [<img align="left" alt="joyoshish.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="joyoshishsaha | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="joyoshishsaha | Medium" width="22px" src="https://seeklogo.com/images/M/medium-logo-93CDCF6451-seeklogo.com.png" />][medium]
 [<img align="left" alt="Joyoshish_Saha | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="JoyoshishSaha | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="JoyoshishSaha | Quora" width="22px" src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/quora-512.png" />][quora]
@@ -64,3 +65,4 @@ Currently, I am in my senior year of Information Technology bachelor's degree pr
 [linux]: https://www.linux.org/
 [git]: https://git-scm.com/
 [quora]: https://www.quora.com/profile/%E0%A6%9C%E0%A7%9F%E0%A7%8B%E0%A6%B6%E0%A7%80%E0%A6%B7-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE-Joyoshish-Saha
+[medium]: https://medium.com/@joyoshish
