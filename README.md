@@ -8,7 +8,7 @@ Currently, I am in my senior year of Information Technology bachelor's degree pr
 ---
 - 🔭 I’m currently working on a Deep Learning project!
 - 👯 I’m looking to collaborate with other Deep Learning practitioners
-- 🥅 2020 Goals: Write more articles on AI. Check out my Quora profile for the articles I write.
+- 🥅 2020 Goals: Write more articles on AI. Check out [my Medium profile](https://medium.com/@joyoshish) for the articles I write.
 - 🌱 I am always keen to learn about Physics, Astronomy, History, Sanskrit and you name it! 😆
 - 😇 I like to mentor students for their IIT-JEE and other +2 prep ([my blog](https://plustwopcm.blogspot.com/))
 - ⚡ Fun fact: I love to read and play guitar. 
