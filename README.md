@@ -13,7 +13,7 @@ Currently, I am in my senior year of Information Technology bachelor's degree pr
 - 😇 I like to mentor students for their IIT-JEE and other +2 prep ([my blog](https://plustwopcm.blogspot.com/))
 - ⚡ Fun fact: I love to read and play guitar. 
 
-### Skills:
+### <p align = "center">Skills:</p>
 
 [<img align="left" alt="Python" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />][python]
 [<img align="left" alt="Matplotlib" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Matplotlib_icon.svg/1200px-Matplotlib_icon.svg.png" />][matplotlib]
