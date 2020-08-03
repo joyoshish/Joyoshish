@@ -1,3 +1,6 @@
+[<img align="center" alt="joyoshish.github.io" src="https://github.com/Joyoshish/Joyoshish/blob/master/joyoshish-github.gif" />][website]
+
+
 # <p align="center"><a href="https://joyoshish.github.io/">🅷🅴🅻🅻🅾 🌎, 🄸'🄼 🄹🄾🅈🄾🅂🄷🄸🅂🄷！</a></p>
 
 Hello! My name is Joyoshish Saha. I'm a passionate Deep Learning and Machine Learning practitioner and I am always eager to learn new technologies. I like to experiment with new Machine Learning and Deep Learning libraries and use them to make cool projects. I write [articles on Deep Learning in different platforms like Quora](https://bn.quora.com/profile/%E0%A6%9C%E0%A7%9F%E0%A7%8B%E0%A6%B6%E0%A7%80%E0%A6%B7-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE-Joyoshish-Saha/all_posts) and Medium, preferably in my mother tongue(as I feel there's lack of good articles in Bengali). I am a content writer in the [largest Bengali space of Quora for learning ML DL](https://bn.quora.com/q/ml). Among my recent obsessions is the [OpenAI's GPT-3](https://openai.com/blog/openai-api/) and it's fascinating for me what this language model can achieve. I idolize AI gurus like Geoffrey Hinton, Ian J. Goodfellow and I really fantasize to meet them once in my lifetime 😊.  <br>
