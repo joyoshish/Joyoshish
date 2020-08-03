@@ -4,28 +4,28 @@
     <br>
     <br>
     <a href="https://status.nmoo.dev/blocks/1">
-        <img src="https://status.nmoo.dev/blocks/1" width="32" height="32">
+        <img src="https://status.nmoo.dev/blocks/1" width="20" height="20">
     </a>
     <a href="https://status.nmoo.dev/blocks/2">
-        <img src="https://status.nmoo.dev/blocks/2" width="32" height="32">
+        <img src="https://status.nmoo.dev/blocks/2" width="20" height="20">
     </a>
     <a href="https://status.nmoo.dev/blocks/3">
-        <img src="https://status.nmoo.dev/blocks/3" width="32" height="32">
+        <img src="https://status.nmoo.dev/blocks/3" width="20" height="20">
     </a>
     <a href="https://status.nmoo.dev/blocks/4">
-        <img src="https://status.nmoo.dev/blocks/4" width="32" height="32">
+        <img src="https://status.nmoo.dev/blocks/4" width="20" height="20">
     </a>
     <a href="https://status.nmoo.dev/blocks/5">
-        <img src="https://status.nmoo.dev/blocks/5" width="32" height="32">
+        <img src="https://status.nmoo.dev/blocks/5" width="20" height="20">
     </a>
     <a href="https://status.nmoo.dev/blocks/6">
-        <img src="https://status.nmoo.dev/blocks/6" width="32" height="32">
+        <img src="https://status.nmoo.dev/blocks/6" width="20" height="20">
     </a>
     <a href="https://status.nmoo.dev/blocks/7">
-        <img src="https://status.nmoo.dev/blocks/7" width="32" height="32">
+        <img src="https://status.nmoo.dev/blocks/7" width="20" height="20">
     </a>
     <a href="https://status.nmoo.dev/blocks/8">
-        <img src="https://status.nmoo.dev/blocks/8" width="32" height="32">
+        <img src="https://status.nmoo.dev/blocks/8" width="20" height="20">
     </a>
     <br>
 </div>
