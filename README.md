@@ -32,7 +32,6 @@ This is where I showcase my cool projects on anything I love to play with. I lik
 [<img align="left" alt="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][git]
 [<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]  
 </br>
-
 <br>
 ### Stay connected
 
@@ -45,7 +44,6 @@ This is where I showcase my cool projects on anything I love to play with. I lik
 [<img align="left" alt="JoyoshishSaha | Mail" width="22px" src="https://image.flaticon.com/icons/svg/561/561188.svg" />][mail]
 
 </br>
-
 <br>
 
 <div align="center">
