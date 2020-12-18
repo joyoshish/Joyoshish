@@ -6,13 +6,6 @@
 This is where I showcase my fun projects on anything I love to play with. I like to experiment with new Machine Learning and Deep Learning libraries and use them to make cool projects. I write [articles on Deep Learning in different platforms like Quora](https://bn.quora.com/profile/%E0%A6%9C%E0%A7%9F%E0%A7%8B%E0%A6%B6%E0%A7%80%E0%A6%B7-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE-Joyoshish-Saha/all_posts) and Medium, preferably in my mother tongue(as I feel there's lack of good articles in Bengali). I am a content writer in the [Bengali space of Quora for learning ML DL](https://bn.quora.com/q/ml).   <br>
     Currently, I am in my senior year of Information Technology bachelor's degree program at the Indian Institute of Engineering Science and Technology, Shibpur.  </br>
 
-### Yes, I am a dreamer. For a dreamer is one who can find his way by moonlight, and see the dawn before the rest of the world. - Oscar Wilde
----
-
-- 🥅 2020 Goals: Write more articles on AI. Check out [my Medium profile](https://medium.com/@joyoshish) for the articles I write.
-- 🌱 I am always keen to learn about Physics, Astronomy, History, Sanskrit and you name it! 😆
-- 😇 I like to mentor students for their IIT-JEE and other +2 prep ([my blog](https://plustwopcm.blogspot.com/))
-- ⚡ Fun fact: I love to read and play guitar. 
 
 ### Skills
 
