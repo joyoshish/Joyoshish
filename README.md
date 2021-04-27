@@ -70,7 +70,7 @@
 
 <!---<img align="left" alt="Joyoshish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Joyoshish&show_icons=true&hide_border=true" />-->
 
-![Joyoshish's github stats](https://github-readme-stats.vercel.app/api?username=joyoshish&show_icons=true&theme=dark) 
+<!--- ![Joyoshish's github stats](https://github-readme-stats.vercel.app/api?username=joyoshish&show_icons=true&theme=dark) -->
 
 
 [website]: https://www.joyoshish.engineer/
