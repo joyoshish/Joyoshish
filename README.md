@@ -3,8 +3,7 @@
 <!---
 # <p align="center"><a href="https://joyoshish.github.io/">🅷🅴🅻🅻🅾 🌎, 🄸'🄼 🄹🄾🅈🄾🅂🄷🄸🅂🄷！</a></p>
 -->
-This is where I showcase my fun projects on anything I love to play with. I like to experiment with new Machine Learning and Deep Learning libraries and use them to make cool projects. I write [articles on Deep Learning in different platforms like Quora](https://bn.quora.com/profile/%E0%A6%9C%E0%A7%9F%E0%A7%8B%E0%A6%B6%E0%A7%80%E0%A6%B7-%E0%A6%B8%E0%A6%BE%E0%A6%B9%E0%A6%BE-Joyoshish-Saha/all_posts) and Medium, preferably in my mother tongue(as I feel there's lack of good articles in Bengali). I am a content writer in the [Bengali space of Quora for learning ML DL](https://bn.quora.com/q/ml).   <br>
-    Currently, I am in my senior year of Information Technology bachelor's degree program at the Indian Institute of Engineering Science and Technology, Shibpur.  </br>
+
 
 
 ### Skills
@@ -71,7 +70,7 @@ This is where I showcase my fun projects on anything I love to play with. I like
 
 <!---<img align="left" alt="Joyoshish's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Joyoshish&show_icons=true&hide_border=true" />-->
 
-<!--- ![Joyoshish's github stats](https://github-readme-stats.vercel.app/api?username=joyoshish&show_icons=true&theme=dark) -->
+![Joyoshish's github stats](https://github-readme-stats.vercel.app/api?username=joyoshish&show_icons=true&theme=dark) 
 
 
 [website]: https://www.joyoshish.engineer/
