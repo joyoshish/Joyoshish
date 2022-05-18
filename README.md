@@ -80,7 +80,7 @@
 <!--- ![Joyoshish's github stats](https://github-readme-stats.vercel.app/api?username=joyoshish&show_icons=true&theme=dark) -->
 
 
-[website]: https://www.joyoshish.engineer/
+[website]: https://www.joyoshish.github.io/
 [twitter]: https://twitter.com/Joyoshish_Saha
 [instagram]: https://instagram.com/JoyoshishSaha
 [linkedin]: https://linkedin.com/in/joyoshishsaha
