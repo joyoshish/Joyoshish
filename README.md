@@ -1,4 +1,6 @@
+<!---
 [<img align="centre" alt="joyoshish.github.io" src="https://github.com/Joyoshish/Joyoshish/blob/master/joyoshish-github.svg" />][website]
+-->
 
 <!---
 # <p align="center"><a href="https://joyoshish.github.io/">🅷🅴🅻🅻🅾 🌎, 🄸'🄼 🄹🄾🅈🄾🅂🄷🄸🅂🄷！</a></p>
